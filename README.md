@@ -1,3 +1,3 @@
 # Internet-Security
 
-The files with the description name ' Main Lab Instructions" have the instructions of the lab and the codes
+These Internet Security Labs are performed from the SEED website
